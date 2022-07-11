@@ -1,4 +1,5 @@
 title: "DeltaDex"
 remote_theme: just-the-docs/just-the-docs
+url: "http://deltadex.io"
 color_scheme: "dark"
 include: ['_pages']
