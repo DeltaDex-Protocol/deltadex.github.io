@@ -1,1 +1,7 @@
-Coming soon.
+---
+layout: page
+title: Guides 
+permalink: /guides/
+---
+
+## Coming soon.
