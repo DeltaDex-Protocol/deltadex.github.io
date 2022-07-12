@@ -4,5 +4,4 @@ title: Guides
 permalink: /Guides/
 ---
 
-
-Coming soon.
+## Coming soon.
