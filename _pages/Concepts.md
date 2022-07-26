@@ -15,11 +15,11 @@ ___
 
 | Number | Smart contract | Link |
 | --- | --- | --- |
-| 1 | BlackSholes | none |
+| 1 | TEAM | TOP 1 |
 
 ```css
 
-def function() :
-print("Hello world")
+def function():
+print("WE CAN DO EVERYTHIND TOGETHER")
 
 ```
