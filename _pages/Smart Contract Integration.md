@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Smart Contract Integration 
-permalink: /smartcontractintegration /
+title: Smart Contract Integration
+permalink: /smartcontract/
 ---
 
-## Coming soon. 
+## Coming soon.
