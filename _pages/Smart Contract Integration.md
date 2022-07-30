@@ -4,4 +4,4 @@ title: Smart Contract Integration
 permalink: /smartcontract/
 ---
 
-## Coming soon.
+### Coming soon.

@@ -4,4 +4,4 @@ title: Whitepaper
 permalink: /whitepaper/
 ---
 
-## Whitepaper coming soon. 
+### Whitepaper coming soon.
