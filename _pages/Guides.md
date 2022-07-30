@@ -2,6 +2,7 @@
 layout: page
 title: Guides
 permalink: /Guides/
+nav_order: 2
 ---
 
 ## What are options?

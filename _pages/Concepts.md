@@ -2,6 +2,7 @@
 layout: page
 title: Concepts
 permalink: /Concepts/
+nav_order: 3
 ---
 
 ## How does DeltaDex work?
